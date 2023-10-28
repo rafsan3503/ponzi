@@ -150,7 +150,7 @@ export default function Hamburger({
             <div className="social-links">
               <a
                 className="social-link"
-                href="https://twitter.com/OfficialPonzi"
+                href="twitterlink"
               >
                 <img src="/twitter.svg" alt="error" className="image" />
               </a>

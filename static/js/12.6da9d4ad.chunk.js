@@ -300,7 +300,7 @@
                                     className: "social-links",
                                     children: [Object(h.jsx)("a", {
                                         className: "social-link",
-                                        href: "https://twitter.com/OfficialPonzi",
+                                        href: "twitterlink",
                                         children: Object(h.jsx)("img", {
                                             src: "/twitter.svg",
                                             alt: "error",
@@ -787,7 +787,7 @@
                                 className: "paragraph",
                                 children: "\xa9 The Ponzi\u2122 EST. 09/05/22"
                             }), Object(a.jsxs)("a", {
-                                href: "https://twitter.com/OfficialPonzi",
+                                href: "twitterlink",
                                 target: "_blank",
                                 rel: "noreferrer",
                                 className: "paragraph no-transition tweet-button",

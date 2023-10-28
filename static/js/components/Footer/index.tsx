@@ -23,7 +23,7 @@ export default function Footer() {
         <div className="footer-content">
           <p className="paragraph">© The Ponzi™ EST. 09/05/22</p>
           <a
-            href="https://twitter.com/OfficialPonzi"
+            href="twitterlink"
             target="_blank"
             rel="noreferrer"
             className="paragraph no-transition tweet-button"
